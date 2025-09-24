@@ -12,7 +12,7 @@ This project analyzes customer behavior based on credit card usage. It includes 
 6. **GitHub Upload** – Share the project using Git version control.
 
 ##  Files Included:
-- `Credit_Card_Analysis.ipynb` – Main Jupyter Notebook
+- `credit_card_data.ipynb` – Main Jupyter Notebook
 - `requirements.txt` – List of required Python libraries
 
 ##  Key Insights:
