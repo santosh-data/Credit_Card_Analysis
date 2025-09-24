@@ -9,7 +9,7 @@ This project analyzes customer behavior based on credit card usage. It includes 
 3. **Exploratory Data Analysis (EDA)** – Analyze balance distribution, purchases vs payments, and credit utilization.
 4. **Customer Segmentation** – Apply KMeans clustering to group customers based on usage patterns.
 5. **Conclusion** – Identify high spenders, credit utilization trends, and payment behavior.
-6. **GitHub Upload** – Share the project using Git version control.
+6. **GitHub Upload** – Share the project using  upload files
 
 ##  Files Included:
 - `credit_card_data.ipynb` – Main Jupyter Notebook
